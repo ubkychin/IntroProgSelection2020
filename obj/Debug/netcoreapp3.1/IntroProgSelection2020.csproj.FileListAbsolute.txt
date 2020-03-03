@@ -1,0 +1,11 @@
+D:\VolatileData\Profiles\anguyen\Documents\IntroProg\IntroProgSelection2020\bin\Debug\netcoreapp3.1\IntroProgSelection2020.exe
+D:\VolatileData\Profiles\anguyen\Documents\IntroProg\IntroProgSelection2020\bin\Debug\netcoreapp3.1\IntroProgSelection2020.deps.json
+D:\VolatileData\Profiles\anguyen\Documents\IntroProg\IntroProgSelection2020\bin\Debug\netcoreapp3.1\IntroProgSelection2020.runtimeconfig.json
+D:\VolatileData\Profiles\anguyen\Documents\IntroProg\IntroProgSelection2020\bin\Debug\netcoreapp3.1\IntroProgSelection2020.runtimeconfig.dev.json
+D:\VolatileData\Profiles\anguyen\Documents\IntroProg\IntroProgSelection2020\bin\Debug\netcoreapp3.1\IntroProgSelection2020.dll
+D:\VolatileData\Profiles\anguyen\Documents\IntroProg\IntroProgSelection2020\bin\Debug\netcoreapp3.1\IntroProgSelection2020.pdb
+D:\VolatileData\Profiles\anguyen\Documents\IntroProg\IntroProgSelection2020\obj\Debug\netcoreapp3.1\IntroProgSelection2020.csprojAssemblyReference.cache
+D:\VolatileData\Profiles\anguyen\Documents\IntroProg\IntroProgSelection2020\obj\Debug\netcoreapp3.1\IntroProgSelection2020.AssemblyInfoInputs.cache
+D:\VolatileData\Profiles\anguyen\Documents\IntroProg\IntroProgSelection2020\obj\Debug\netcoreapp3.1\IntroProgSelection2020.AssemblyInfo.cs
+D:\VolatileData\Profiles\anguyen\Documents\IntroProg\IntroProgSelection2020\obj\Debug\netcoreapp3.1\IntroProgSelection2020.dll
+D:\VolatileData\Profiles\anguyen\Documents\IntroProg\IntroProgSelection2020\obj\Debug\netcoreapp3.1\IntroProgSelection2020.pdb
